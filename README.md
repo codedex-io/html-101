@@ -1,13 +1,13 @@
 <div align="center">
   <br>
-  <h1>The Origins I: HTML</h1>
-  <strong>GitHub Repo with Beginner-friendly HTML Problems</strong>
+  <h1>The Origins I: HTML 🌋</h1>
+  <strong>GitHub repo with beginner-friendly problems in HTML</strong>
 </div>
 <br>
 
-Welcome to The Origins HTML GitHub repo! We are super excited to have you. Here, you will find all the solutions to the Codédex challenges. Feel free to make pull requests to add your own twists on the challenges!
+Welcome to The Origins I: HTML GitHub repo! We are super excited to have you. Here, you will find all the solutions to the Codédex challenges. Feel free to make pull requests to add your own twists on the challenges!
 
-### Website: www.codedex.io
+### Website: www.codedex.io/html
 
 ## Elements
 
