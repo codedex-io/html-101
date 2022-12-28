@@ -9,7 +9,7 @@ Welcome to The Origins I: HTML GitHub repo! We are super excited to have you. He
 
 ### Website: www.codedex.io/html
 
-## Elements
+## <img src="https://www.codedex.io/images/badges/html/elements.png" height="20" style="vertical-align: middle"> Elements
 
 - [`star.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/star.html)
 - [`newspaper.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/newspaper.html)
