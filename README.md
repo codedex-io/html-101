@@ -11,16 +11,22 @@ Welcome to The Origins I: HTML GitHub repo! We are super excited to have you. He
 
 ## <img src="https://www.codedex.io/images/badges/html/elements.png" height="20" style="vertical-align: middle"> Elements
 
-- [`star.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/star.html)
-- [`newspaper.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/newspaper.html)
-- [`corporate.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/corporate.html)
-- [`chef.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/chef.html)
-- [`pet.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/pet.html)
-- [`band.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/band.html)
+- [`star.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/01_star.html)
+- [`newspaper.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/03_newspaper.html)
+- [`corporate.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/04_corporate.html)
+- [`chef.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/05_chef.html)
+- [`pet.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/06_pet.html)
+- [`band.html`](https://github.com/codedex-io/html-101/blob/main/1-elements/07_band.html)
 
-## TBD
+## Structure
 
-- Coming soon
+- [`blueprint.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/08_blueprint.html)
+- [`family_tree.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/09_family_tree.html)
+- [`craigslist_ad.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/10_craigslist.html)
+- [`wiki_article.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/11_wiki_article.html)
+- [`lorem_ipsum.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/12_lorem_ipsum.html)
+- [`power_rangers.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/13_power_rangers.html)
+- [`top_8.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/14_top_8.html)
 
 ---
 
