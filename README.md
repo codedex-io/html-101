@@ -42,7 +42,7 @@ Welcome to The Origins I: HTML GitHub repo! We are super excited to have you. He
 - [`the_header.html`](https://github.com/codedex-io/html-101/blob/main/4-semantic-html/22_the_header.html)
 - [`main_footer.html`](https://github.com/codedex-io/html-101/blob/main/4-semantic-html/23_main_footer.html)
 - [`blog_posts.html`](https://github.com/codedex-io/html-101/blob/main/4-semantic-html/24_blog_posts.html)
-- [`figures`](https://github.com/codedex-io/html-101/blob/main/4-semantic-html/25_figures.html)
+- [`figures.html`](https://github.com/codedex-io/html-101/blob/main/4-semantic-html/25_figures.html)
 - [`final_touches.html`](https://github.com/codedex-io/html-101/blob/main/4-semantic-html/26_final_touches.html)
 
 ---
