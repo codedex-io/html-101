@@ -22,7 +22,7 @@ Welcome to The Origins I: HTML GitHub repo! We are super excited to have you. He
 
 - [`blueprint.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/08_blueprint.html)
 - [`family_tree.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/09_family_tree.html)
-- [`craigslist_ad.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/10_craigslist.html)
+- [`craigslist_ad.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/10_craigslist_ad.html)
 - [`wiki_article.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/11_wiki_article.html)
 - [`lorem_ipsum.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/12_lorem_ipsum.html)
 - [`power_rangers.html`](https://github.com/codedex-io/html-101/blob/main/2-structure/13_power_rangers.html)
