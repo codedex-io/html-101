@@ -1,4 +1,4 @@
-<!-- Welp! ✏️ -->
+<!-- Welp! ⭐ -->
 <!-- Codédex -->
 
 <!DOCTYPE html>
@@ -8,20 +8,27 @@
   </head>
   <body>
     <form>
-      <h2>Welp! Review Form</h2>
-      <label>What are you reviewing? </label><input type="text" required>
-      <br><br>
-      <label>Would you try again?</label>
-      <br>
-      <input type="radio" name="try-again"> No
-      <input type="radio" name="try-again"> Not Sure
-      <input type="radio" name="try-again"> Yes
-      <br><br>
-      <label>Overall Rating (out of 5): </label><input type="number" min="1" max="5" required>
-      <br><br>
-      <label>My Review</label><br>
-      <textarea maxlength="250"></textarea>
-      <br><br>
+      <h2>Welp! Review</h2>
+
+      <label for="item">What are you reviewing?</label>
+      <input type="text" id="item" required><br><br>
+
+      Would you try again?<br><br>
+      <input type="radio" id="try-again-1" name="try-again"> 
+      <label for="cleanliness-1">No</label><br>
+
+      <input type="radio" id="try-again-2" name="try-again">
+      <label for="cleanliness-2">Not Sure</label><br>
+
+      <input type="radio" id="try-again-3" name="try-again">
+      <label for="cleanliness-3">Yes</label><br><br>
+
+      <label for="rating">Overall Rating (out of 5): </label>
+      <input type="number" id="rating" min="1" max="5" required><br><br>
+
+      <label for="review">My Review:</label><br><br>
+      <textarea id="review" rows="4" cols="37" placeholder="Tell us about your experience..."></textarea><br><br>
+
       <input type="submit" value="Submit Review">
     </form>
   </body>
